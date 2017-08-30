@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="primary">#B0BEC5</color>
+    <color name="accent">@color/primary</color>
+    <color name="primary_dark">#607D8B</color>
+    <color name="ripple_dark">@color/mid_grey</color>
+    <color name="background_light">#fafafa</color>
+    <color name="mid_grey">#40808080</color>
+    <color name="designer_news">#03a9f4</color>
+    <color name="designer_news_link_highlight">#b303a9f4</color>
+    <color name="dark_icon">#99000000</color>
+</resources>

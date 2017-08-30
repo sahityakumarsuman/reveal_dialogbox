@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DialogPractice</string>
+    <string name="loginDialog" translatable="false">Login Dialog</string>
+    <string name="get_accounts_permission_primer_message">Autocomplete email addresses</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="dialog_title">Login for the Batman news</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+</resources>

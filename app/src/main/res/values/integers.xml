@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <integer name="animation_time">120</integer>
+    <integer name="reveal_animation_time">360</integer>
+    <integer name="expand_reveal_close_animation_time">120</integer>
+</resources>

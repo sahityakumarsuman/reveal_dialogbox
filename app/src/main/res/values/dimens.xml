@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="button_z">6dp</dimen>
+    <dimen name="size_6dp">6dp</dimen>
+
+    <dimen name="dialog_padding">24dp</dimen>
+    <dimen name="title_padding">20dp</dimen>
+    <dimen name="size_32dp">32dp</dimen>
+    <dimen name="corner_radius_dialog">2dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_4dp">4dp</dimen>
+</resources>
